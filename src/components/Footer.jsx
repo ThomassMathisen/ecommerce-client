@@ -91,16 +91,16 @@ const Footer = () => {
           humour, or randomised words which don't look even slightly believable.
         </Desc>
         <SocialContainer>
-          <SocialIcon>
+          <SocialIcon color="3B5999">
             <Facebook />
           </SocialIcon>
-          <SocialIcon>
+          <SocialIcon color="E4405F">
             <Instagram />
           </SocialIcon>
-          <SocialIcon>
+          <SocialIcon color="E60023">
             <Pinterest />
           </SocialIcon>
-          <SocialIcon>
+          <SocialIcon color="55ACEE">
             <Twitter />
           </SocialIcon>
         </SocialContainer>
